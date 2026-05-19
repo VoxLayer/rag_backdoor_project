@@ -56,13 +56,15 @@ Python
 
 ## 项目目录截图
 
-> *[截图占位 — 请替换为项目目录截图]*
+<img width="485" height="711" alt="毕设上传Github-项目目录" src="https://github.com/user-attachments/assets/86f66367-182d-478c-8647-e80bf0dc1706" />
+
 
 ---
 
 ## 项目说明截图
 
-> *[截图占位 — 请替换为GitHub仓库首页截图]*
+<img width="1899" height="801" alt="毕设上传Github-主页面" src="https://github.com/user-attachments/assets/8980b39d-1981-4f35-b7d7-748ef0907d80" />
+
 
 ---
 
