@@ -1,0 +1,24 @@
+ ensemblenode properties 
+
+![Ensemble node icon](https://dataplatform.cloud.ibm.com/docs/content/wsd/nodes/scripting_guide/clementine/images/ensemblenodeicon.png)The Ensemble node combines two or more model nuggets to obtain more accurate predictions than can be gained from any one model.
+
+
+
+ensemblenode properties
+
+Table 1. ensemblenode properties
+
+ ensemblenode properties           Data type                                                                                                                                                              Property description                                                                                                                                                                                                        
+
+ ensemble_target_field             field                                                                                                                                                                  Specifies the target field for all models used in the ensemble.                                                                                                                                                             
+ filter_individual_model_output    flag                                                                                                                                                                   Specifies whether scoring results from individual models should be suppressed.                                                                                                                                              
+ flag_ensemble_method              VotingConfidenceWeightedVotingRawPropensityWeightedVotingAdjustedPropensityWeightedVotingHighestConfidenceAverageRawPropensityAverageAdjustedPropensity                Specifies the method used to determine the ensemble score. This setting applies only if the selected target is a flag field.                                                                                                
+ set_ensemble_method               VotingConfidenceWeightedVotingHighestConfidence                                                                                                                        Specifies the method used to determine the ensemble score. This setting applies only if the selected target is a nominal field.                                                                                             
+ flag_voting_tie_selection         RandomHighestConfidenceRawPropensityAdjustedPropensity                                                                                                                 If a voting method is selected, specifies how ties are resolved. This setting applies only if the selected target is a flag field.                                                                                          
+ set_voting_tie_selection          RandomHighestConfidence                                                                                                                                                If a voting method is selected, specifies how ties are resolved. This setting applies only if the selected target is a nominal field.                                                                                       
+ calculate_standard_error          flag                                                                                                                                                                   If the target field is continuous, a standard error calculation is run by default to calculate the difference between the measured or estimated values and the true values; and to show how close those estimates matched.  
+
+
+
+
+

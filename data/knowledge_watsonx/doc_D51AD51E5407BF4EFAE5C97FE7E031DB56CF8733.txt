@@ -1,0 +1,17 @@
+ Run parameters and Environment 
+
+You can select various run parameters for the optimization solve in the  Decision Optimization experiment UI.
+
+Quick links to sections:
+
+
+
+*  [CPLEX runtime version](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_RunParameters/runparams.html?context=cdpaas&locale=enRunConfig__cplexruntime)
+*  [Python version](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_RunParameters/runparams.html?context=cdpaas&locale=enRunConfig__pyversion)
+*  [Run configuration parameters](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_RunParameters/runparams.html?context=cdpaas&locale=enRunConfig__section_runconfig)
+*  [Environment for scenario](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_RunParameters/runparams.html?context=cdpaas&locale=enRunConfig__section_runparamenv)
+
+
+
+
+

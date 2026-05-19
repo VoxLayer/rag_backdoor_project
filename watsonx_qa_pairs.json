@@ -1,0 +1,227 @@
+[
+  {
+    "question": "What foundation models have been built by IBM?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How can you ensure the removal of harmful content when utilizing foundation models in the Prompt Lab?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "When to tune a foundation model?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How do I avoid generating personal information with foundation models?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What Python libraries are available for interacting with IBM Watson Machine Learning AutoAI experiments, and what are their respective functionalities?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What are the steps involved in configuring the watsonx platform for an organization's use?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is the difference between fine-tuning and prompt-tuning foundation models?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How are words mapped to tokens?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What are the different types of joins that can be performed in Data Refinery?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How can you edit the sample size in Data Refinery?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What information is needed to create a Watson Query connection?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How do you mark a Jupyter notebook as trusted?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is the purpose of the Data Audit node in SPSS Modeler?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What information is needed to create a connection to Db2 Warehouse?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is optimization?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a Jupyter Notebook?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is an algorithm?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a resource group in IAM?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What are the different types of classification algorithms that can be used to train a custom classification model?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a confusion matrix?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a visualization?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How do I assign roles to enable access to Cloud Object Storage?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What are the different methods for imputing missing data in binary classification, multiclass classification, or regression experiments?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a candlestick chart?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a Jupyter notebook?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a time series model?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What are the benefits of using scripting in SPSS Modeler?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is temperature in a generative model?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is Watson OpenScale?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a weight in an AI model?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is the difference between traditional AI models and foundation models?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is the difference between the Symmetric Mean Absolute Percentage Error (SMAPE) and the Root Mean Squared Error (RMSE) metrics?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How can you monitor the progress of a federated learning experiment?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is RFM analysis?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a knowledge base?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How do you edit, duplicate, insert, or delete a step in Data Refinery?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is an Analysis node in SPSS modeler?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How do you save a Data Refinery flow?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What are the different methods for tuning foundation models?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How can I export the data from a Data Refinery flow to a CSV file?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "How do I import a space or a project to a new deployment space?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is the purpose of the Feature Selection node?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is a Pareto chart?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What are the four main areas of Watson OpenScale?",
+    "answer": "",
+    "doc_id": ""
+  },
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "",
+    "doc_id": ""
+  }
+]

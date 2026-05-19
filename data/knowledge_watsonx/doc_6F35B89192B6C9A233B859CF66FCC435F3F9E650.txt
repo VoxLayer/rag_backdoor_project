@@ -1,0 +1,28 @@
+ kmeansnode properties 
+
+![K-Means node icon](https://dataplatform.cloud.ibm.com/docs/content/wsd/nodes/scripting_guide/clementine/images/kmeansnodeicon.png)The K-Means node clusters the data set into distinct groups (or clusters). The method defines a fixed number of clusters, iteratively assigns records to clusters, and adjusts the cluster centers until further refinement can no longer improve the model. Instead of trying to predict an outcome, k-means uses a process known as unsupervised learning to uncover patterns in the set of input fields.
+
+
+
+kmeansnode properties
+
+Table 1. kmeansnode properties
+
+ kmeansnode Properties    Values                      Property description                                                                                                                                                                                        
+
+ inputs                   [field1 ... fieldN]         K-means models perform cluster analysis on a set of input fields but do not use a target field. Weight and frequency fields are not used. See [Common modeling node properties](https://dataplatform.cloud.ibm.com/docs/content/wsd/nodes/scripting_guide/clementine/modelingnodeslots_common.htmlmodelingnodeslots_common) for more information.      
+ num_clusters             number                     
+ gen_distance             flag                       
+ cluster_label            StringNumber               
+ label_prefix             string                     
+ mode                     SimpleExpert               
+ stop_on                  DefaultCustom              
+ max_iterations           number                     
+ tolerance                number                     
+ encoding_value           number                     
+ optimize                 SpeedMemory                 Specifies whether model building should be optimized for speed or for memory.                                                                                                                               
+
+
+
+
+

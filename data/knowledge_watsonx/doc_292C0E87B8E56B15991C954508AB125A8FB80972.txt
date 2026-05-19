@@ -1,0 +1,23 @@
+ applyapriorinode properties 
+
+You can use Apriori modeling nodes to generate an Apriori model nugget. The scripting name of this model nugget is applyapriorinode. For more information on scripting the modeling node itself, see [apriorinode properties](https://dataplatform.cloud.ibm.com/docs/content/wsd/nodes/scripting_guide/clementine/apriorinodeslots.htmlapriorinodeslots).
+
+
+
+applyapriorinode properties
+
+Table 1. applyapriorinode properties
+
+ applyapriorinode Properties    Values                                                   Property description                                                                                                                             
+
+ max_predictions                number (integer)                                        
+ ignore_unmatached              flag                                                    
+ allow_repeats                  flag                                                    
+ check_basket                   NoPredictionsPredictionsNoCheck                         
+ criterion                      ConfidenceSupportRuleSupportLiftDeployability           
+ enable_sql_generation          udfnative                                                When using data from a database, SQL code can be pushed back to the database for execution, providing superior performance for many operations.  
+
+
+
+
+

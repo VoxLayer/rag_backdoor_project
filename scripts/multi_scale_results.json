@@ -1,0 +1,23 @@
+{
+  "small": {
+    "poisoned_rank": null,
+    "poisoned_score": null,
+    "normal_docs_count": 10,
+    "doc_count": 28,
+    "chunk_count": 28
+  },
+  "medium": {
+    "poisoned_rank": null,
+    "poisoned_score": null,
+    "normal_docs_count": 10,
+    "doc_count": 200,
+    "chunk_count": 2581
+  },
+  "large": {
+    "poisoned_rank": null,
+    "poisoned_score": null,
+    "normal_docs_count": 10,
+    "doc_count": 1144,
+    "chunk_count": 13076
+  }
+}

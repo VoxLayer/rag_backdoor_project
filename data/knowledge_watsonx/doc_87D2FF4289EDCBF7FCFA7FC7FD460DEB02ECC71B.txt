@@ -1,0 +1,75 @@
+ logregnode properties 
+
+![Logistic node icon](https://dataplatform.cloud.ibm.com/docs/content/wsd/nodes/scripting_guide/clementine/images/logisticnodeicon.png)Logistic regression is a statistical technique for classifying records based on values of input fields. It is analogous to linear regression but takes a categorical target field instead of a numeric range.
+
+
+
+logregnode properties
+
+Table 1. logregnode properties
+
+ logregnode Properties             Values                                                                     Property description                                                                                                                                                                                                                                              
+
+ target                            field                                                                      Logistic regression models require a single target field and one or more input fields. Frequency and weight fields are not used. See [Common modeling node properties](https://dataplatform.cloud.ibm.com/docs/content/wsd/nodes/scripting_guide/clementine/modelingnodeslots_common.htmlmodelingnodeslots_common) for more information.                                                                     
+ logistic_procedure                BinomialMultinomial                                                       
+ include_constant                  flag                                                                      
+ mode                              SimpleExpert                                                              
+ method                            EnterStepwiseForwardsBackwardsBackwardsStepwise                           
+ binomial_method                   EnterForwardsBackwards                                                    
+ model_type                        MainEffectsFullFactorialCustom                                             When FullFactorial is specified as the model type, stepping methods will not run, even if specified. Instead, Enter will be the method used. If the model type is set to Custom but no custom fields are specified, a main-effects model will be built.           
+ custom_terms                      [[BP Sex][BP][Age]]                                                       
+ multinomial_base_category         string                                                                     Specifies how the reference category is determined.                                                                                                                                                                                                               
+ binomial_categorical_input        string                                                                    
+ binomial_input_contrast           IndicatorSimpleDifferenceHelmertRepeatedPolynomialDeviation                Keyed property for categorical input that specifies how the contrast is determined. See the example for usage.                                                                                                                                                    
+ binomial_input_category           FirstLast                                                                  Keyed property for categorical input that specifies how the reference category is determined. See the example for usage.                                                                                                                                          
+ scale                             NoneUserDefinedPearsonDeviance                                            
+ scale_value                       number                                                                    
+ all_probabilities                 flag                                                                      
+ tolerance                         1.0E-51.0E-61.0E-71.0E-81.0E-91.0E-10                                     
+ min_terms                         number                                                                    
+ use_max_terms                     flag                                                                      
+ max_terms                         number                                                                    
+ entry_criterion                   ScoreLR                                                                   
+ removal_criterion                 LRWald                                                                    
+ probability_entry                 number                                                                    
+ probability_removal               number                                                                    
+ binomial_probability_entry        number                                                                    
+ binomial_probability_removal      number                                                                    
+ requirements                      HierarchyDiscreteHierarchyAllContainmentNone                              
+ max_iterations                    number                                                                    
+ max_steps                         number                                                                    
+ p_converge                        1.0E-41.0E-51.0E-61.0E-71.0E-80                                           
+ l_converge                        1.0E-11.0E-21.0E-31.0E-41.0E-50                                           
+ delta                             number                                                                    
+ iteration_history                 flag                                                                      
+ history_steps                     number                                                                    
+ summary                           flag                                                                      
+ likelihood_ratio                  flag                                                                      
+ asymptotic_correlation            flag                                                                      
+ goodness_fit                      flag                                                                      
+ parameters                        flag                                                                      
+ confidence_interval               number                                                                    
+ asymptotic_covariance             flag                                                                      
+ classification_table              flag                                                                      
+ stepwise_summary                  flag                                                                      
+ info_criteria                     flag                                                                      
+ monotonicity_measures             flag                                                                      
+ binomial_output_display           at_each_stepat_last_step                                                  
+ binomial_goodness_of_fit          flag                                                                      
+ binomial_parameters               flag                                                                      
+ binomial_iteration_history        flag                                                                      
+ binomial_classification_plots     flag                                                                      
+ binomial_ci_enable                flag                                                                      
+ binomial_ci                       number                                                                    
+ binomial_residual                 outliersall                                                               
+ binomial_residual_enable          flag                                                                      
+ binomial_outlier_threshold        number                                                                    
+ binomial_classification_cutoff    number                                                                    
+ binomial_removal_criterion        LRWaldConditional                                                         
+ calculate_variable_importance     flag                                                                      
+ calculate_raw_propensities        flag                                                                      
+
+
+
+
+

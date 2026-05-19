@@ -1,0 +1,26 @@
+ Decision Optimization experiments 
+
+If you use the  Decision Optimization experiment UI, you can take advantage of its many features in this user-friendly environment. For example, you can create and solve models, produce reports, compare scenarios and save models ready for deployment with  Watson Machine Learning.
+
+The  Decision Optimization experiment UI facilitates workflow. Here you can:
+
+
+
+*  Select and edit the data relevant for your optimization problem, see [Prepare data view](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/modelbuilderUI.htmlModelBuilderInterface__section_preparedata)
+*  Create, import, edit and solve Python models in the  Decision Optimization experiment UI, see [Decision Optimization notebook tutorial](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Notebooks/solveModel.htmltask_mtg_n3q_m1b)
+*  Create, import, edit and solve models expressed in natural language with the  Modeling Assistant, see [Modeling Assistant tutorial](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Mdl_Assist/exhousebuild.htmlcogusercase)
+*  Create, import, edit and solve OPL models in the  Decision Optimization experiment UI, see [OPL models](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/OPLmodels.htmltopic_oplmodels)
+*  Generate a  notebook from your model, work with it as a  notebook then reload it as a model, see [Generating a notebook from a scenario](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/modelbuilderUI.htmlModelBuilderInterface__generateNB) and [Overview](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/modelbuilderUI.htmlModelBuilderInterface__section_overview)
+*  Visualize data and solutions, see [Explore solution view](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/modelbuilderUI.htmlModelBuilderInterface__solution)
+*  Investigate and compare solutions for multiple scenarios, see [Scenario pane](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/modelbuilderUI.htmlModelBuilderInterface__scenariopanel) and [Overview](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/modelbuilderUI.htmlModelBuilderInterface__section_overview)
+*  Easily create and share reports with tables, charts and notes using widgets provided in the [Visualization Editor](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/Visualization.htmltopic_visualization)
+*  Save models that are ready for deployment in  Watson Machine Learning, see [Scenario pane](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/modelbuilderUI.htmlModelBuilderInterface__scenariopanel) and [Overview](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/modelbuilderUI.htmlModelBuilderInterface__section_overview)
+
+
+
+See the [Decision Optimization experiment UI comparison table](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/DOintro.htmlDOIntro__comparisontable) for a list of features available with and without the  Decision Optimization experiment UI.
+
+See [Views and scenarios](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/modelbuilderUI.htmlModelBuilderInterface) for a description of the user interface and scenario management.
+
+
+

@@ -1,0 +1,13 @@
+ Supported data sources in  Decision Optimization 
+
+Decision Optimization supports the following relational and nonrelational data sources on .  watsonx.ai.
+
+
+
+*  [IBM data sources](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/DOconnections.html?context=cdpaas&locale=enDOConnections__ibm-data-src)
+*  [Third-party data sources](https://dataplatform.cloud.ibm.com/docs/content/DO/DODS_Introduction/DOconnections.html?context=cdpaas&locale=enDOConnections__third-party-data-src)
+
+
+
+
+

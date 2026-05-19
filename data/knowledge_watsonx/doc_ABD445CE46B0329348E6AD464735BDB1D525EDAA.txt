@@ -1,0 +1,18 @@
+ SuperNode properties 
+
+The tables in this section describe properties that are specific to SuperNodes. Note that common node properties also apply to SuperNodes.
+
+
+
+Terminal supernode properties
+
+Table 1. Terminal supernode properties
+
+ Property name     Property type/List of values  Property description 
+
+ execute_method    ScriptNormal                 
+ script            string                       
+
+
+
+

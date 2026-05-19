@@ -1,0 +1,24 @@
+ distributionnode properties 
+
+![Distribution node icon](https://dataplatform.cloud.ibm.com/docs/content/wsd/nodes/scripting_guide/clementine/images/distributionnodeicon.png)The Distribution node shows the occurrence of symbolic (categorical) values, such as mortgage type or gender. Typically, you might use the Distribution node to show imbalances in the data, which you could then rectify using a Balance node before creating a model.
+
+
+
+distributionnode properties
+
+Table 1. distributionnode properties
+
+ distributionnode properties    Data type                  Property description 
+
+ plot                           SelectedFieldsFlags       
+ x_field                        field                     
+ color_field                    field                      Overlay field.       
+ normalize                      flag                      
+ sort_mode                      ByOccurenceAlphabetic     
+ use_proportional_scale         flag                      
+ use_grid                       boolean                    Display gridlines.   
+
+
+
+
+

@@ -1,0 +1,29 @@
+# Chroma vector databases (large binary files)
+chroma_db/
+chroma_db_*/
+
+# LoRA model weights
+models/
+
+# External cloned repos
+llama.cpp/
+watsonxDocsQA/
+
+# IDE
+.idea/
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
