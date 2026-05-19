@@ -23,6 +23,13 @@
 
 可供网络安全、AI安全方向的同行研究人员快速复现RAG后门攻击实验结果，并开展RAG安全检测、防御机制的二次开发。
 
+## 项目目录截图
+
+<img width="485" height="711" alt="毕设上传Github-项目目录" src="https://github.com/user-attachments/assets/86f66367-182d-478c-8647-e80bf0dc1706" />
+
+
+---
+
 ### 核心实验发现
 
 | 知识库规模 | T1-T7 召回 | T8 强语义召回 | 攻击成功率 |
@@ -54,12 +61,6 @@ Python
 
 ---
 
-## 项目目录截图
-
-<img width="485" height="711" alt="毕设上传Github-项目目录" src="https://github.com/user-attachments/assets/86f66367-182d-478c-8647-e80bf0dc1706" />
-
-
----
 
 ## 项目说明截图
 
